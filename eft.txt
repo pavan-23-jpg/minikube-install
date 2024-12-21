@@ -39,3 +39,4 @@ minikube start
 minikube status
 
 ################## end ##################
+everyone enjoy the weekend
